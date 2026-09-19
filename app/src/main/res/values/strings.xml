@@ -1,0 +1,21 @@
+<resources>
+    <!-- MainActivity -->
+    <string name="app_name" translatable="false">FirstTestApp</string>
+    <string name="button_configuration"> Configuration </string>/>
+    <string name="button_exit"> Exit </string>
+
+    <!-- ConfigurationActivity -->
+    <string name="text_name"> Name: </string>/>
+    <string name="textname_text"> Admin </string>
+    <string name="text_sex"> Sex </string>
+    <string name="rb_male"> Male </string>
+    <string name="rb_female"> Female </string>
+    <string name="text_diet"> Diet </string>
+    <string name="cb_lowfat"> Low-Fat </string>
+    <string name="cb_lowglyc"> Low-Glycemic </string>
+    <string name="cb_glutenfree"> Gluten-Free </string>
+    
+    <string name="button_confirm"> Confirm </string>
+    <string name="button_cancel"> Cancel </string>
+
+</resources>

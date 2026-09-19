@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="button_configuration">Configuração</string>
+    <string name="button_exit">Sair</string>
+    <string name="text_name">Nome:</string>
+    <string name="textname_text">Admin</string>
+    <string name="text_sex">Sexo</string>
+    <string name="rb_female">Feminino</string>
+    <string name="text_diet">Dieta</string>
+    <string name="cb_glutenfree">Sem Glúten</string>
+    <string name="button_confirm">Confirmar</string>
+    <string name="button_cancel">Cancelar</string>
+    <string name="rb_male">Masculino</string>
+    <string name="cb_lowfat">Hipolipídica</string>
+    <string name="cb_lowglyc">Hipoglicêmica</string>
+</resources>
